@@ -1,1 +1,1 @@
-# QGIS-CBS-Proje
+# QGIS/CBS-Proje
